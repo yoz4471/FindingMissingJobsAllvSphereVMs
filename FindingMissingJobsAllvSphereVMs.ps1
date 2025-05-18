@@ -130,7 +130,7 @@ function GetAllvSphereVMs{
 
     # 認証情報を設定（ユーザー名とパスワード）検証のためコードに直書きしているだけ
     $username = "VBR123-1\Administrator"
-    $password = "0306Yoshi4471"
+    $password = "xxxxxxxxxxxxxxx"
 
 
     # 認証用のヘッダー（基本認証の設定）
@@ -213,7 +213,7 @@ function GetVBRAllJobs{
     
     # 認証情報を設定（ユーザー名とパスワード）検証のためコードに直書きしているだけ
     $username = "VBR123-1\Administrator"
-    $password = "0306Yoshi4471"
+    $password = "xxxxxxxxxxxxxxx"
 
 
     # 認証用のヘッダー（基本認証の設定）
