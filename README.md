@@ -83,4 +83,4 @@ VMName:FileServer01, MoRef:vm-103
 
 ---
 
-Author: yoshinari.ozawa@veeam.com
+Author: Yoshinari Ozawa
