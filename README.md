@@ -75,6 +75,7 @@ VMName:DBServer01, MoRef:vm-102
 VMName:FileServer01, MoRef:vm-103
  Job Name: FileBackupJob, Job ID: efgh1234-5678-abcd-ijkl-9876mnopqrst, LastJobStatus: Success
 ```
+![Image](https://github.com/user-attachments/assets/9dbfd1fe-3cdb-4477-86e7-21b23c6a40c2)
 
 ## 免責事項
 
